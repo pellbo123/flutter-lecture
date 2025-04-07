@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:untitled1/drawer.dart';
-import 'package:untitled1/setting_page.dart';
 
 void main() {
   runApp(const MyApp());
